@@ -1,0 +1,33 @@
+body{
+	background-image: url(../css/img.jpg);
+	width: 100%;
+	height: 500px;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+span{
+	color: #fffff10;
+	font-size: 25px;
+	font-family: 'Rubik Microbe', cursive;
+}
+
+.div1{
+	height: 50px;
+	width: 70%;
+	background: rgba(0,0,0,0.5);
+	margin: auto;
+	text-align: center;
+	border-radius: 15px;
+}
+label{
+	font-size: 25px;
+	color: #fff;
+	font-family: Times New Roman sans-serif;
+}
+form{
+	background: rgba(0,0,0,0.8);
+	padding-top: 100px;
+	padding-bottom: 100px;
+	border-radius: 15px;
+}

@@ -1,0 +1,3 @@
+SELECT * FROM `users` WHERE serialnumber LIKE'14%'
+
+DELETE FROM `users` WHERE serialnumber LIKE'14%'
